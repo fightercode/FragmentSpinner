@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">dataon</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Ruangan">
+        <item>Select option</item>
+        <item>Ruangan A</item>
+        <item>Ruangan B</item>
+        <item>Ruangan C</item>
+        <item>Ruangan D</item>
+        <item>Ruangan E</item>
+        <item>Ruangan F</item>
+        <item>Ping pong</item>
+        <item>Football</item>
+        <item>Badminton</item>
+        <item>Chess</item>
+        <item>Test App</item>
+        <item>Cafetaria</item>
+        <item>Auditorium</item>
+        <item>Rooftop</item>
+    </string-array>
+
+    <string-array name="Floor">
+        <item>Select Option</item>
+        <item>4</item>
+        <item>5</item>
+
+    </string-array>
+</resources>
+
